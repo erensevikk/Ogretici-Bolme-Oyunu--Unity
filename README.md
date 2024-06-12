@@ -1,2 +1,5 @@
-# Ogretici-Bolme-Oyunu--Unity
- Unity kullanılarak geliştirilmiş çocuklar için öğretici bir bölme oyunudur. Oyuncular bölme sorularının cevaplarını doğru kutucuğu işaretleyerek ilerler. Her yanlış cevapları için bir kalp kaybederlerken her doğru cevap için puan kazanırlar ve doğru sonucu seçtikleri her kutu bir meyveyle kaplanır. Oyun çocuklara bölmeyi sevdirmeyi amaçlamaktadır.
+<p style="font-size: 15px;"><strong>Ekran Görüntüleri:</strong></p>
+<img src="Screenshots/Giriş.png" width="700px">
+<img src="Screenshots/Oyun1.png" width="700px">
+<img src="Screenshots/Oyun2.png" width="700px">
+<img src="Screenshots/Oyun3.png" width="700px">
